@@ -1,13 +1,13 @@
-package com.example.myproject;
+package com.practice.myproject;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MyprojectApplication {
+public class PracticeApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MyprojectApplication.class, args);
+		SpringApplication.run(PracticeApplication.class, args);
 	}
 
 }
